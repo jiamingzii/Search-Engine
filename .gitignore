@@ -1,0 +1,8 @@
+  build/
+  obj/
+  data/
+  tmp/
+  logs/
+  *.o
+  *.log
+  search_engine
